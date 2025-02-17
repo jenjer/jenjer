@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kimyoungsu</h1>
-<h3 align="center">컴퓨터를 공부하는 학생</h3>
+<h3 align="center">컴퓨터를 공부하는 직장인</h3>
 
-- 🌱 I’m currently learning **42Seoul**
+- 🌱 I’m currently Working
 
 - 👨‍💻 All of my projects are available at [https://west-ease-c85.notion.site/16f6bcdcae7d4547b3e102912ac3dc9d](https://west-ease-c85.notion.site/16f6bcdcae7d4547b3e102912ac3dc9d)
 
